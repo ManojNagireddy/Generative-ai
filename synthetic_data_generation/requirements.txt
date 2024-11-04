@@ -1,2 +1,8 @@
 streamlit
 pathlib
+langchain
+#google
+tensorflow
+transformers
+torch
+openai
